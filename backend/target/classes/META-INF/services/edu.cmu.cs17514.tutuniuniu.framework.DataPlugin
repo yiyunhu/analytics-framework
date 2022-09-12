@@ -1,0 +1,4 @@
+# List of data plugins to be registered by framework.
+edu.cmu.cs17514.tutuniuniu.data_plugin.GuardianPlugin
+edu.cmu.cs17514.tutuniuniu.data_plugin.NewYorkTimesPlugin
+edu.cmu.cs17514.tutuniuniu.data_plugin.TwitterPlugin

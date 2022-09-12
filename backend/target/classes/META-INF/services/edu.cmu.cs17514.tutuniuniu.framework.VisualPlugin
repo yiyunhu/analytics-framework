@@ -1,0 +1,3 @@
+# List of visualization plugins to be registered by framework.
+edu.cmu.cs17514.tutuniuniu.visual_plugin.BarChartPlugin
+edu.cmu.cs17514.tutuniuniu.visual_plugin.PieChartPlugin
